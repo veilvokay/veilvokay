@@ -36,7 +36,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=veilvokay&show_icons=true&theme=tokynight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=veilvokay&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veilvokay)](https://github.com/veilvokay/github-readme-stats)
+
 
 </details>
 
